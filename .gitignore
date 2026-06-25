@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Données lourdes
+Data/
+*.csv
+*.jsonl
+
+# Modèles / sorties
+*.keras
+*.joblib
+
+# Statistiques générées
+Statistics/
