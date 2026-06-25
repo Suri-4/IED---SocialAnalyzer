@@ -105,7 +105,7 @@ Options disponibles :
 
 ## Structure actuelle
 
-`
+```text
 SocialAnalyzer/
 ├── Data/
 │   ├── Corpus/
@@ -118,7 +118,7 @@ SocialAnalyzer/
 ├── Statistics/
 ├── runSocialAnalyzer.py
 └── README.md
-`
+```
 
 ## Remarques
 
